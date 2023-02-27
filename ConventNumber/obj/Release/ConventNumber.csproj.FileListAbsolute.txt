@@ -1,0 +1,11 @@
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\bin\Release\ConventNumber.exe.config
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\bin\Release\ConventNumber.exe
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\bin\Release\ConventNumber.pdb
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\obj\Release\ConventNumber.csproj.AssemblyReference.cache
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\obj\Release\ConventNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\obj\Release\ConventNumber.ConvertCalculation.resources
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\obj\Release\ConventNumber.Properties.Resources.resources
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\obj\Release\ConventNumber.csproj.GenerateResource.cache
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\obj\Release\ConventNumber.csproj.CoreCompileInputs.cache
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\obj\Release\ConventNumber.exe
+C:\Users\trg14\Documents\Ex myself\Ex myself\Project GUI Windows app\ConventNumber\obj\Release\ConventNumber.pdb
